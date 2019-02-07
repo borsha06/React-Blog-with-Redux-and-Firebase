@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is available in [https://new-plan-project.firebaseapp.com](Our Blog)
+This project is available in [https://new-plan-project.firebaseapp.com]
 
 ## Available Scripts
 
